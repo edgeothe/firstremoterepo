@@ -5,6 +5,6 @@ taken over by
 scipts for portswiger web accademy labs
 following Rana Khalil
 
-cross site request forgery
+1. cross site request forgery
 
-sql injection
+2. sql injection
